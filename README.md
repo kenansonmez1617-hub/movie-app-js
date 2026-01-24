@@ -49,17 +49,19 @@ HTML, CSS ve JavaScript temellerini pekiştirmek amacıyla geliştirilmiştir.
 <pre>
 3-Film-Sitesi-Projesi/
 
-├── index.html
-
 ├── images
 
-├── README.md
-
-├── styl.css  
+├── README.md 
+  
+├── film.gif
 
 ├── film.png
 
-├── film.gif
+├── index.html
+
+├── script.js  
+
+├── styl.css
 
 </pre>
 
