@@ -1,7 +1,7 @@
 <h1>3-Film-Sitesi-Projesi</h1>
 
 <p>
-Modern ve kullanıcı dostu bir arayüze sahip, tamamen responsive bir kurs tanıtım web sitesidir.
+Modern ve kullanıcı dostu bir arayüze sahip, tamamen responsive bir film tanıtım web sitesidir.
 </p>
 
 <p>
