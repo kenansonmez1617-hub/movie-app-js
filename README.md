@@ -1,7 +1,7 @@
 <h1>3-Film-Sitesi-Projesi</h1>
 
 <p>
-Modern ve kullanıcı dostu bir arayüze sahip, tamamen responsive bir kurs tanıtım web sitesidir.
+Modern ve kullanıcı dostu bir arayüze sahip, tamamen responsive bir film tanıtım web sitesidir.
 </p>
 
 <p>
@@ -49,17 +49,19 @@ HTML, CSS ve JavaScript temellerini pekiştirmek amacıyla geliştirilmiştir.
 <pre>
 3-Film-Sitesi-Projesi/
 
-├── index.html
-
-├── images
+├── img
 
 ├── README.md
 
-├── styl.css  
+├── film.gif
 
 ├── film.png
 
-├── film.gif
+├── index.html
+
+├── script.js
+
+├── styl.css  
 
 </pre>
 
