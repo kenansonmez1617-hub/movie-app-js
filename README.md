@@ -1,4 +1,4 @@
-<h1>react-movie-app</h1>
+<h1>movie-app-js</h1>
 
 <p>
 Modern ve kullanıcı dostu bir arayüze sahip, tamamen responsive bir film tanıtım web sitesidir.
@@ -47,7 +47,7 @@ HTML, CSS ve JavaScript temellerini pekiştirmek amacıyla geliştirilmiştir.
 <h2>Proje Yapısı</h2>
 
 <pre>
-react-movie-app/
+movie-app-js/
 
 ├── img
 
